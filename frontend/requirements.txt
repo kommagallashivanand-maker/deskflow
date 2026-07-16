@@ -1,0 +1,1 @@
+#add all the required packages for the frontend application here
